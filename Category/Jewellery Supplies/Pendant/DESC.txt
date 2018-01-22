@@ -1,0 +1,18 @@
+Description:   
+
+*pendants are basic structure for a necklace.
+*pendants are used for making  DIY fashion, and  jewelery materials.
+*
+             
+
+
+Product spec:
+
+*Material:
+*Color:
+*Size: 
+*Quantity:
+*Style:
+
+
+

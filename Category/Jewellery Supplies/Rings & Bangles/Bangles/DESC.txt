@@ -1,0 +1,14 @@
+Description:   
+
+**these Bangles are used for DIY fashion & jewelery materials.
+             
+
+
+Product spec:
+
+
+*type:
+*color
+*size
+*material
+*quantity
