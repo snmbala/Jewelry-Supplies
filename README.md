@@ -1,6 +1,7 @@
 <h1>KnowHow</h1>
 
-<p><img src="http://www.knowhowartcraft.com/new/pub/media/logo/websites/1/KnowHow1.png" width="140"> KnowHowArtCraft.com is a online store selling Art and Craft Materials, Initiated by Raj's KhowHow Training Academy. KH sells the Art & Craft Supplies at the most economy pricing shipping the products across the globe with in 3 - 15 Working days.</p>
+<img src="http://www.knowhowartcraft.com/new/pub/media/logo/websites/1/KnowHow1.png" width="180" Style="padding: 4px; margin: 0 0 2px 7px; display: inline;">
+<p>KnowHowArtCraft.com is a online store selling Art and Craft Materials, Initiated by Raj's KhowHow Training Academy. KH sells the Art & Craft Supplies at the most economy pricing shipping the products across the globe with in 3 - 15 Working days.</p>
 
 <p>KH Manufactures varies supplies and also procrustes from various sources which are personally tested by our academy teachers. As of now we have more than 1400 unique items on the online store and we are constantly adding new items to our catalogue. We don't run frequent deals, but we always sell our items with the least margin possible. KH is proud to claim that we have many unique items on our store which are hard to find it anywhere online. We are committed to provide best customer service on timely basis.</p>
   
