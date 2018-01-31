@@ -1,4 +1,4 @@
-<h1>KnowHow</h1>
+<h1>About Us</h1>
 
 <img src="http://www.knowhowartcraft.com/new/pub/media/logo/websites/1/KnowHow1.png" width="180" Style="padding: 4px; margin: 0 0 2px 7px; display: inline;">
 <p>KnowHowArtCraft.com is a online store selling Art and Craft Materials, Initiated by Raj's KhowHow Training Academy. KH sells the Art & Craft Supplies at the most economy pricing shipping all across the globe with in 3 - 15 Working days.</p>
