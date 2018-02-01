@@ -10,7 +10,7 @@
 <h2>The Team</h2>
 <p><b>Balamurugan M</b> UX Designer with 7 years of experience on the industry. HFI certified disciplinary with extensive Knowledge on user research and information architecture. Currently working on Juniper Networks</p>
 
-<p><b>Rahul</b> Final year graduate from _________ studying BE in Information Science. Worked on complete IA activity to this website and to define the right navigation system for KA. He also helped on conducting user Interview and has done extensive competitor analysis. Since Jewellery supplies are unique product. It has taken extensive research and time for conducting product analysis.</p>
+<p><b>Rahul</b> Final year graduate in SJB Institute of Technology studying BE in Information Science. Worked on complete IA activity to this website and to define the right navigation system for KA. He also helped on conducting user Interview and has done extensive competitor analysis. Since Jewellery supplies are unique product. It has taken extensive research and time for conducting product analysis.</p>
   
  <b>The Key Features of this Listing</b>
  <ul><li>Supplies are listed based on the jewellery parts like Beads, Fitting, Spacer, String etc</li>
